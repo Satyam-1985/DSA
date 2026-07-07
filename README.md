@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Satyam-1985/DSA/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/Satyam-1985/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Satyam-1985/DSA/tree/main/0016-3sum-closest/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
