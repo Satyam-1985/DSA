@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Satyam-1985/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/Satyam-1985/DSA/tree/main/0050-powx-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Satyam-1985/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
