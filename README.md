@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam-1985/DSA/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [0031-next-permutation](https://github.com/Satyam-1985/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +47,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
