@@ -17,11 +17,13 @@
 | [0001-two-sum](https://github.com/Satyam-1985/DSA/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Satyam-1985/DSA/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Satyam-1985/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Satyam-1985/DSA/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Satyam-1985/DSA/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Satyam-1985/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam-1985/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
