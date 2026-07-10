@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Satyam-1985/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam-1985/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +53,8 @@
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam-1985/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
