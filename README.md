@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Satyam-1985/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Satyam-1985/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
@@ -32,6 +33,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Satyam-1985/DSA/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Satyam-1985/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Satyam-1985/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Satyam-1985/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -84,4 +86,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Satyam-1985/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
