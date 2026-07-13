@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/Satyam-1985/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satyam-1985/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Satyam-1985/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Satyam-1985/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Satyam-1985/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Satyam-1985/DSA/tree/main/0053-maximum-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Satyam-1985/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Satyam-1985/DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
